@@ -1,0 +1,1 @@
+Lightweight heuristic + YARA + VirusTotal file monitor for Termux/Linux. ~0.2% CPU idle, offline-first detection. Auto-quarantine threats using hash DB + custom YARA rules. Real-time with inotify. Battery efficient.
